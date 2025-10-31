@@ -9,8 +9,8 @@ Even the existence of FGM/C is a significant human rights issue.Effective policy
 # Data Sources and Collection
 To build a robust analysis, there will be various datasets from multiple organizations.
 
-* UNICEF – FGM Data / Country Profiles      National FGM prevalence (%), disaggregated by age, region, and education level
-* DHS (Demographic and Health Surveys)     Micro-level data on FGM experience, religion, education, and socio-economic variables
-* Pew Research Center – Religious Composition by Country      Percentage of major religions by country
-* World Bank & WHO Indicators                GDP per capita, literacy rates, urbanization, legal frameworks, health metrics
-* MICS (Multiple Indicator Cluster Surveys)        UNICEF based microdata surveys including FGM modules for certain countries
+* UNICEF – FGM Data / Country Profiles:       National FGM prevalence (%), disaggregated by age, region, and education level
+* DHS (Demographic and Health Surveys):     Micro-level data on FGM experience, religion, education, and socio-economic variables
+* Pew Research Center: Religious Composition by Country      Percentage of major religions by country
+* World Bank & WHO Indicators:                 GDP per capita, literacy rates, urbanization, legal frameworks, health metrics
+* MICS (Multiple Indicator Cluster Surveys):        UNICEF based microdata surveys including FGM modules for certain countries
